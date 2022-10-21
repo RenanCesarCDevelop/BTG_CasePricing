@@ -12,3 +12,7 @@ Packages e conceitos utilizados nessa API.
 - Abstração
 - SOLID
 - AddScoped para as classes de Service e HttpClient
+
+Documentação da API que esta sendo consumida:
+https://docs.github.com/en/rest/search#search-repositories
+
