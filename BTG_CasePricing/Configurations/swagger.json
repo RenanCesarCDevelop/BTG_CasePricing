@@ -1,0 +1,11 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "BTG Pricing WebApi",
+    "Description": "BTG Pricing WebApi",
+    "DeprecatedMessage": " ",
+    "ContactName": "Renan Cesar",
+    "ContactEmail": "renan_cesar17@hotmail.com",
+    "ContactUrl": "https://www.exemple.com.br"
+  }
+}

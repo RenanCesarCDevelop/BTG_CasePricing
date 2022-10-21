@@ -1,0 +1,7 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "DefaultConnection": "",
+    "SqliteConnection": "Data Source=database.sqlite"
+  }
+}
